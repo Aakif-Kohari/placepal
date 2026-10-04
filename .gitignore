@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Private practice data (resume answers and scores) must never be committed
+data/
+*.corrupt
+sessions.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

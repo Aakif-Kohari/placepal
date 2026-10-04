@@ -1,0 +1,7 @@
+# Keep PlacePal's "nothing leaves this laptop" promise honest:
+# disable Streamlit's anonymous usage statistics.
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
